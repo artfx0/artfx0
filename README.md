@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Artifax</h1>
+<h1 align="center">Hi!, I'm Artifax</h1>
 <h3 align="center">Future UI/UX Engineer</h3>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on my **Portfolio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
